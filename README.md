@@ -1,5 +1,11 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Aarushi Gupta</h1>
+<h3 align="center">A passionate Engineer from India</h3>
 
+- 🌱 I’m currently learning **DSA and web development**
+
+- 💬 Ask me about **electronics**
+
+- 📫 How to reach me **ashgupta081@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
